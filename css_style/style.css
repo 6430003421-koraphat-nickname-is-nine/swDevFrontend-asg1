@@ -68,3 +68,11 @@ a.button1 {
   margin-bottom: 8px;
   border-radius: 16px;
 }
+a.button2 {
+  background-color: rgb(135, 5, 5);
+  color: white;
+  padding: 16px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 16px;
+}
